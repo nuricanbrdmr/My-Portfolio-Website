@@ -1,7 +1,7 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project1 from "../assets/projects/Ecars.png";
+import project2 from "../assets/projects/Happy.png";
+import project3 from "../assets/projects/NCB.png";
+import project4 from "../assets/projects/Lenslight.jpg";
 
 export const HERO_CONTENT = `My name is Nuri Can Birdemir, I am currently studying at Marmara University, Faculty of Technology, Department of Computer Engineering. I am known for my enthusiasm for research, hard work, teamwork and strong communication skills, and I am constantly striving to improve myself.
 As a passionate full-stack developer with a lot of application development experience, I am passionate about building robust and scalable web applications. I have experience with technologies such as React, Node.js, Next.js, Java, Spring Boot, AngularJS, JavaScript, MySQL, MSSQL.  My goal is to utilise my skills to develop innovative solutions that drive business growth and provide exceptional user experiences.`;
