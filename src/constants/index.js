@@ -48,7 +48,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["React", "Tailwind CSS"],
-    link: "",
+    link: "https://github.com/nuricanbrdmr/My-Portfolio-Website",
   },
   {
     title: "Lenslight Photo Gallery Website",
@@ -61,7 +61,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Kemalpaşa Mahallesi 1949. Sokak No: 22, İstanbul/Bağcılar",
+  phoneNo: "0512 345 67 89",
+  email: "nuricanb6@gmail.com",
 };

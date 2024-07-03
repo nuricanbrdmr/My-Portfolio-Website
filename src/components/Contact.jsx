@@ -26,7 +26,7 @@ function Contact() {
                     initial={{ opacity: 0, y: 100 }}
                     transition={{ duration: 1.5 }}
                     className='my-4'>
-                    <a href="#" className='border-b'>
+                    <a href={`mailto:${CONTACT.email}`} className='border-b'>
                         {CONTACT.email}
                     </a>
                 </motion.p>
