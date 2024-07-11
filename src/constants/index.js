@@ -61,7 +61,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Kemalpaşa Mahallesi 1949. Sokak No: 22, İstanbul/Bağcılar",
+  address: "İstanbul - Bağcılar",
   phoneNo: "0512 345 67 89",
   email: "nuricanb6@gmail.com",
 };
