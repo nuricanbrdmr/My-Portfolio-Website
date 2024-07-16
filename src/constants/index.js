@@ -3,7 +3,7 @@ import project2 from "../assets/projects/Happy.png";
 import project3 from "../assets/projects/NCB.png";
 import project4 from "../assets/projects/Lenslight.jpg";
 import project5 from "../assets/projects/BookStore.jpg";
-
+import project6 from "../assets/projects/SpotifyClone.png";
 
 export const HERO_CONTENT = `My name is Nuri Can Birdemir, I am currently studying at Marmara University, Faculty of Technology, Department of Computer Engineering. I am known for my enthusiasm for research, hard work, teamwork and strong communication skills, and I am constantly striving to improve myself.
 As a passionate full-stack developer with a lot of application development experience, I am passionate about building robust and scalable web applications. I have experience with technologies such as React, Node.js, Next.js, Java, Spring Boot, AngularJS, JavaScript, MySQL, MSSQL.  My goal is to utilise my skills to develop innovative solutions that drive business growth and provide exceptional user experiences.`;
@@ -43,6 +43,14 @@ export const PROJECTS = [
       "Insurance Management System is a web application that fulfils basic insurance functions for vehicle, health and housing insurances. It facilitates customers to list insurance information, get quotes, accept/reject insurance and renew insurance. The project was developed using Java Spring Boot, MySQL, AngularJS, JavaScript, HTML, CSS, SCSS and tested with JUnit tests.",
     technologies: ["Java Spring Boot", "Angular.js", "JavaScript", "MySQL"],
     link: "https://github.com/edamuutlu/Insurance-Management-Project",
+  },
+  {
+    title: "Spotify Clone Website",
+    image: project6,
+    description:
+      "A fully functional Spotify clone built with React, Node.js, Express.js and MongoDB. This project aims to replicate the core functionalities of Spotify, allowing users to browse albums, play songs, and manage playback. It includes functionalities for creating, browsing, and removing albums, as well as uploading, viewing, and deleting songs.",
+    technologies: ["React", "Node.js", "Express.js", "MongoDB", "Cloudinary"],
+    link: "https://github.com/nuricanbrdmr/Spotify-Clone-MERN-Website",
   },
   {
     title: "BookStore Book Review Website",
